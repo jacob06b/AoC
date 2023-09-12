@@ -1,0 +1,15 @@
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.csproj.AssemblyReference.cache
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.AssemblyInfoInputs.cache
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.AssemblyInfo.cs
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.csproj.CoreCompileInputs.cache
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/bin/Debug/net7.0/Aoc2020-6
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/bin/Debug/net7.0/Aoc2020-6.deps.json
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/bin/Debug/net7.0/Aoc2020-6.runtimeconfig.json
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/bin/Debug/net7.0/Aoc2020-6.dll
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/bin/Debug/net7.0/Aoc2020-6.pdb
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.dll
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/refint/Aoc2020-6.dll
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.pdb
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/Aoc2020-6.genruntimeconfig.cache
+/Users/jacobbramwell/Documents/AdventOfCode/Aoc2020-6/obj/Debug/net7.0/ref/Aoc2020-6.dll
